@@ -1,5 +1,4 @@
-# udacitynanodegree
-udacitynanodegree
+
 Plagiarism Project, Machine Learning Deployment
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
@@ -8,11 +7,16 @@ In this project, you will be tasked with building a plagiarism detector that exa
 
 This project will be broken down into three main notebooks:
 
+
+
 Notebook 1: Data Exploration
 
 Load in the corpus of plagiarism text data.
 Explore the existing data features and the data distribution.
 This first notebook is not required in your final project submission.
+
+
+
 Notebook 2: Feature Engineering
 
 Clean and pre-process the text data.
